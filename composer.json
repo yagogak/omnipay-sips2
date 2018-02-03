@@ -1,5 +1,5 @@
 {
-    "name": "ambroisemaupate/omnipay-sips2",
+    "name": "yagogak/omnipay-sips2",
     "description": "Omnipay gateway for Worldline Sips PayPage POST API (Atos Sips 2.0)",
     "type": "library",
     "license": "MIT",
