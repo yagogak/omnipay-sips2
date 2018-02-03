@@ -201,6 +201,6 @@ class CompletePurchaseResponse extends AbstractResponse
      */
     public function getTransactionId()
     {
-        return $this->fields['orderId'];
+        return $this->fields['transactionId'];
     }
 }
