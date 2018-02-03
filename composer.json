@@ -3,11 +3,11 @@
     "description": "Omnipay gateway for Worldline Sips PayPage POST API (Atos Sips 2.0)",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/ambroisemaupate/omnipay-sips2",
+    "homepage": "https://github.com/yagogak/omnipay-sips2",
     "authors": [
         {
-            "name": "Ambroise Maupate",
-            "email": "ambroise@rezo-zero.com"
+            "name": "Alexis Desmarais",
+            "email": "alex@plpage.net"
         }
     ],
     "keywords": [
@@ -20,7 +20,8 @@
         "sips",
         "sips2",
         "worldline",
-        "sogenactif"
+        "sogenactif",
+        "mercanet"
     ],
     "autoload": {
         "psr-4": {
