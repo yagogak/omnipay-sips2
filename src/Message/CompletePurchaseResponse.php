@@ -201,6 +201,14 @@ class CompletePurchaseResponse extends AbstractResponse
      */
     public function getTransactionId()
     {
-        return $this->fields['s10TransactionId'];
+        if ( isset($this->fields['s10TransactionId']) )
+        {
+            return $this->fields['s10TransactionId'];    
+        }
+        else
+        {
+            return 'no_transaction_id';
+        }
+        
     }
 }
