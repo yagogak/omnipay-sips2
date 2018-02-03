@@ -1,6 +1,8 @@
 # Omnipay gateway for Worldline (Atos) Sips 2.0
 
 This gateway implements *Sips PayPage POST API* only.
+This is a fork of ambroisemaupate/omnipay-sips2 for Mercanet Atos Sips 2
+
 
 ## Gateway parameters
 
